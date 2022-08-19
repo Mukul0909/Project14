@@ -3,6 +3,8 @@
 ## Project 14
 ![Image](./Capture.PNG)
 
+[Video Demo](https://vimeo.com/741061076/fbe18b7944)
+
 ## Important Things learnt 
 1. Refreshed concepts of CSS positioning
 2. Use of :root keyword, use of web toolkit to make the hollow text effect
@@ -17,6 +19,6 @@ Took around **3 hrs**
 
 ## Live link
 
-[Project Link]( "Netlify")
+[Project Link](https://project14.vercel.app/)
 
 
